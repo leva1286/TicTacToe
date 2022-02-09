@@ -1,6 +1,6 @@
 public abstract class Sign {
 
-    String symbol;
+    private String symbol;
 
     public Sign(String symbol) {
         this.symbol = symbol;
